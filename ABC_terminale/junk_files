@@ -1,0 +1,2 @@
+cp data/junk_data_001.dat MY_junk_n1.txt
+cp data/junk_data_001.dat MY_junk_n2.txt
