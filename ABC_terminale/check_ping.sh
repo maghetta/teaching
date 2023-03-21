@@ -16,5 +16,7 @@ if [ "$input_ip" = "$ip" ]; then
   echo "Congratulations! You entered the correct IP address."
   echo "The 20th character is: C"
 else
-  echo "Mi dispiace, hai inserito l'indirizzo IP sbagliato."
+  echo "Sorry, wrong IP address. Please try again."
+  echo "Hint: try and execute command 'ping www.google.com'... can you find the answer there?"
 fi
+
