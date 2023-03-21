@@ -1,6 +1,6 @@
-Tutorial: primi passi con il terminale bash
+##Tutorial: primi passi con il terminale bash##
 
-Il tutorial che segue è stato preso e tradotto, con alcune modifiche, da [questo ottimo tutorial di Dr. Kristian Rother (© 2010)](https://github.com/nielsdrost/Linux_Commandline_Tutorial).
+Il tutorial che segue è stato preso e tradotto, con alcune modifiche, da **[questo ottimo tutorial di Dr. Kristian Rother (© 2010)](https://github.com/nielsdrost/Linux_Commandline_Tutorial)**.
 
 Oltre alla traduzione dall'inglese all'italiano del testo del tutorial, sono state apportate le seguenti modifiche 
 al materiale (cartella di file *unix_tutorial* scaricata da [qui](https://github.com/nielsdrost/Linux_Commandline_Tutorial/blob/master/Exercises.zip)) che accompagna il tutorial per l'esecuzione degli esercizi (e nelle relative sezioni del tutorial) per correggere alcuni problemi riscontrati nel materiale originale:
