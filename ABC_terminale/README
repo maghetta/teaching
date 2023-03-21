@@ -1,3 +1,14 @@
 Tutorial: primi passi con il terminale bash
 
-Il tutorial che segue è stato preso e tradotto, con alcune modifiche, da [questo ottimo tutorial di Dr. Kristian Rother (© 2010)](https://github.com/nielsdrost/Linux_Commandline_Tutorial):  
+Il tutorial che segue è stato preso e tradotto, con alcune modifiche, da [questo ottimo tutorial di Dr. Kristian Rother (© 2010)](https://github.com/nielsdrost/Linux_Commandline_Tutorial).
+
+Oltre alla traduzione dall'inglese all'italiano del testo del tutorial, sono state apportate le seguenti modifiche 
+al materiale (cartella di file *unix_tutorial* scaricata da [qui](https://github.com/nielsdrost/Linux_Commandline_Tutorial/blob/master/Exercises.zip)) che accompagna il tutorial per l'esecuzione degli esercizi (e nelle relative sezioni del tutorial) per correggere alcuni problemi riscontrati nel materiale originale:
+
+1) Aggiunto un nuovo script bash *program.sh* nella cartella *unix_tutorial/exercise_1/directoryB/*
+2) Aggiunti due file di testo con Y (*MY_junk_n1.txt* e *MY_junk_n2.txt*) nel nome nella cartella *unix_tutorial/exercise_3/*
+3) Aggiunto un nuovo script bash *check_cleaning.sh* nella cartella *unix_tutorial/exercise_3/*
+4) Aggiunto un script bash *permissions.sh* nella cartella *unix_tutorial/exercise_6/* (script recuperato da una precedente versione del materiale del tutorial).
+5) Aggiunto un nuovo script bash *check_ping.sh* nella cartella *unix_tutorial/exercise_6/*
+
+Una copia di ciascuno degli script elencati qui sopra e da me aggiunti nella cartella *unix_tutorial* è disponibile su queste pagine.
