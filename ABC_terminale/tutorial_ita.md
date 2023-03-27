@@ -48,7 +48,7 @@ ls -l
 Nella tabella che il comando restituisce come risultato, troverai indicata la grandezza del file in bytes, il proprietario del file, i permessi per leggerlo e modificarlo, e la data e ora dell'ultima modifica fatta.
 Per ottenere il quarto carattere, somma 3 al numero che indica la grandezza del file di testo, e poi cerca questo numero nella colonna dei valori decimali della Tabella ASCII dei caratteri stampabili che puoi trovare a questo link: https://en.wikipedia.org/wiki/ASCII#Printable_characters.
 
-**2. EditARE FILE DI TESTO**
+**2. EDITARE FILE DI TESTO**
 
 Usa il comando cd .. per tornare indietro fino alla cartella che contiene i file di questo tutorial (cioé, la cartella unix_tutorial). Poi, muoviti nella cartella denominata exercise_2.
 
@@ -243,9 +243,10 @@ Se vuoi interrompere un processo, magari per chiudere un programma che si è blo
 kill -s 9 <pid>
 Puoi trovare il numero pid (process identifier) corrispondente al processo che vuoi interrompere nella prima colonna dell'output del comando top. Come utente puoi interrompere solo i processi lanciati date e i programmi aperti da te, mentre non puoi ad esempio interrompere processi avviati dall'utenza di root, che è l'amministratore di sistema di un PC Linux.
 
-# CONGRATULAZIONI!!!! Hai raggiunto la fine di questo tutorial!
-Hai scoperto la soluzione??
+# CONGRATULAZIONI!!!! 
+Hai raggiunto la fine di questo tutorial! Hai scoperto la soluzione??
 
-# Ringraziamenti
+**Ringraziamenti**
+  
 Questo tutorial è una traduzione italiana, con alcune modifiche, di questa ottima risorsa originale:
 First steps on the linux command line del Dr. Kristian Rother (© 2010 Dr. Kristian Rother): (https://github.com/krother/bash_tutorial)[https://github.com/krother/bash_tutorial]
