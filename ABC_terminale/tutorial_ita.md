@@ -15,6 +15,7 @@ Suggerimento: Se premi il tasto [TAB] dopo aver iniziato a digitare un comando e
 
 # 1. FILE E CARTELLE
 **1.1. Navigare tra le cartelle**
+
 Il primo carattere (first_character) è nascosto in un file da qualche parte all'interno della cartella denominata exercise_1. Utilizza il comando
 cd <nome_cartella>
 
@@ -29,16 +30,19 @@ oppure potresti tornare nella tua home directory utilizzando il comando:
 cd
 
 **1.2. Mostra dei file nascosti**
+
 Alcuni file non sono visibili immediatamente, sono al contratio nascosti. Per vederli, è necessario utilizzare il comando ls con l'opzione -a (dall'inglese all, perché elenca tutti i file), come nell'esempio che segue:
 ls -a
 
 Il secondo carattere (second_character) si trova nella stessa cartella in cui hai trovato il primo carattere, ma per trovarlo dovrai visualizzare i file nascosti.
 
 **1.3. Eseguire un programma**
+
 Usa il comando cd .. per tornare alla cartella exercise_1/directoryB/. Controlla il suo contenuto con il comando ls. Dovresti vedere un file che contiene una serie di comandi bash (detto programma o anche script) che si chiama program.sh. Per trovare il terzo carattere (third character), è necessario eseguire il programma. In bash, un programma si può eseguire digitando il comando source seguito dal nome del programma che si vuole eseguire:
 source program.sh
 
 **1.4. Controllare la grandezza di un file**
+
 Vai alla cartella exercise_1/directoryC/. Per trovare il quarto carattere, dovrai scoprire quanto è grande il file di testo (text_file.txt) che si trova nella cartella. Per controllare la grandezza di un file puoi usare il comando ls con l'opzione -l (abbreviazione di long listing) che modifica il risultato del comando ls causando la stampa di informazioni addizionali sui file elencati, come ad esempio la grandezza:
 ls -l
 Nella tabella che il comando restituisce come risultato, troverai indicata la grandezza del file in bytes, il proprietario del file, i permessi per leggerlo e modificarlo, e la data e ora dell'ultima modifica fatta.
