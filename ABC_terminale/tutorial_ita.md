@@ -1,9 +1,9 @@
-SCOPO DEL TUTORIAL
+# SCOPO DEL TUTORIAL
 Durante lo svolgimento di questo tutorial, dovrai svelare quali sono i 22 caratteri che compongono la seguente frase.
 Tutti e 22 i caratteri sono nascosti negli esercizi seguenti, e li svelerai risolvendo correttamente gli esercizi.
 
 
-PRIMA DI INIZIARE IL TUTORIAL
+# PRIMA DI INIZIARE IL TUTORIAL
 (Se non lo hai già fatto), accendi il tuo PC sul sistema operativo Ubuntu Linux
 Apri una un browser web all'indirizzo URL: https://github.com/maghetta/teaching/tree/master/ABC_terminale e da qui scarica il file Exercises_reloaded.zip (fai click sul nome Exercises_reloaded.zip --> poi fai click su "Download" nella nuova finestra che ti si aprirà).
 Decomprimi il file e scegli di estrarre il contenuto sul Desktop
@@ -12,8 +12,9 @@ Infine, organizza il tuo schermo per muoverti agevolmente tra questa pagina web 
 
 
 Suggerimento: Se premi il tasto [TAB] dopo aver iniziato a digitare un comando e/o il nome di un file o di una cartella sul terminale, Unix proverà ad indovinare cosa vuoi digitare e a completare il comnado per te.
-1. FILE E CARTELLE
-1.1. Navigare tra le cartelle
+
+# 1. FILE E CARTELLE
+**1.1. Navigare tra le cartelle**
 Il primo carattere (first_character) è nascosto in un file da qualche parte all'interno della cartella denominata exercise_1. Utilizza il comando
 cd <nome_cartella>
 
@@ -27,27 +28,29 @@ cd ..
 oppure potresti tornare nella tua home directory utilizzando il comando:
 cd
 
-1.2. Mostra dei file nascosti
+**1.2. Mostra dei file nascosti**
 Alcuni file non sono visibili immediatamente, sono al contratio nascosti. Per vederli, è necessario utilizzare il comando ls con l'opzione -a (dall'inglese all, perché elenca tutti i file), come nell'esempio che segue:
 ls -a
 
 Il secondo carattere (second_character) si trova nella stessa cartella in cui hai trovato il primo carattere, ma per trovarlo dovrai visualizzare i file nascosti.
-1.3. Eseguire un programma
+
+**1.3. Eseguire un programma**
 Usa il comando cd .. per tornare alla cartella exercise_1/directoryB/. Controlla il suo contenuto con il comando ls. Dovresti vedere un file che contiene una serie di comandi bash (detto programma o anche script) che si chiama program.sh. Per trovare il terzo carattere (third character), è necessario eseguire il programma. In bash, un programma si può eseguire digitando il comando source seguito dal nome del programma che si vuole eseguire:
 source program.sh
 
-1.4. Controllare la grandezza di un file
+**1.4. Controllare la grandezza di un file**
 Vai alla cartella exercise_1/directoryC/. Per trovare il quarto carattere, dovrai scoprire quanto è grande il file di testo (text_file.txt) che si trova nella cartella. Per controllare la grandezza di un file puoi usare il comando ls con l'opzione -l (abbreviazione di long listing) che modifica il risultato del comando ls causando la stampa di informazioni addizionali sui file elencati, come ad esempio la grandezza:
 ls -l
 Nella tabella che il comando restituisce come risultato, troverai indicata la grandezza del file in bytes, il proprietario del file, i permessi per leggerlo e modificarlo, e la data e ora dell'ultima modifica fatta.
 Per ottenere il quarto carattere, somma 3 al numero che indica la grandezza del file di testo, e poi cerca questo numero nella colonna dei valori decimali della Tabella ASCII dei caratteri stampabili che puoi trovare a questo link: https://en.wikipedia.org/wiki/ASCII#Printable_characters.
-2. EditARE FILE DI TESTO
+
+# 2. EditARE FILE DI TESTO
 Usa il comando cd .. per tornare indietro fino alla cartella che contiene i file di questo tutorial (cioé, la cartella unix_tutorial). Poi, muoviti nella cartella denominata exercise_2.
 2.1. Vedere il contenuto di un file di testo
 Nella cartella exercise_2/, troverai un file di testo chiamato solution_2.1.txt. Il quinto carattere (fifth character) si trova all'interno del file. Per vedere il contenuto di un file di testo, usa il comando:
 less <filename>
 
-2.2. Modificare un file di testo
+**2.2. Modificare un file di testo**
 Per ottenere il sesto carattere, dovrai creare un file di testo nella cartella exercise_2. Nel sistema operativo Ubuntu (che è il sistema operativo presente sul PC che stai usando), puoi modificare un file di testo utilizzando l'editor denominato nano. Puoi lanciare l'editor nano e usarlo per creare e/o aprire un file di testo in questo modo:
 nano <filename>
 
@@ -58,9 +61,11 @@ Il sesto carattere è quello che devi digitare per salvare le modifiche fatte in
 Informazione extra: se vuoi conoscere di più a proposito di un comando, puoi accedere al suo manuale con il seguente comando:
 man <command>
 Ti verrà mostrata una pagina di aiuto su quel comando, pagina di aiuto da cui puoi uscire digitando la lettera q
-3. COPIARE E CANCELLARE FILE
+  
+# 3. COPIARE E CANCELLARE FILE
 Spostati ora nella cartella denominata exercise_3.
-3.1. Creare una cartella e copiarci dentro dei file.
+
+**3.1. Creare una cartella e copiarci dentro dei file.**
 Per creare una nuova cartella, puoi usare il comando:
 mkdir <nome della cartella>
 
