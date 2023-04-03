@@ -1,8 +1,9 @@
-_Di seguito alcuni file utili per esplorare le seguenti risorse:_
+#Di seguito alcuni file utili per esplorare le seguenti risorse:
 
 ⋅⋅* [UCSC Genome Browser](https://genome.ucsc.edu/)
 
 ⋅⋅* [Ensembl BioMaRt](https://www.ensembl.org/biomart/martview/)
+
 
 
 1. tutorial_UCSC__estrai_mappa_di_conversione_identificativi_geni.pdf
