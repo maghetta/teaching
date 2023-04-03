@@ -7,6 +7,6 @@
 
 
 1. tutorial_UCSC__estrai_mappa_di_conversione_identificativi_geni.pdf
-2.a tutorial_UCSC__crea_BED_file_di_una_lista_di_geni_di_interesse.pdf
-2.b Lista_geni_di_interesse.txt
-3. Progetto_Tumori.pdf
+2. tutorial_UCSC__crea_BED_file_di_una_lista_di_geni_di_interesse.pdf
+3. Lista_geni_di_interesse.txt
+4. Progetto_Tumori.pdf
