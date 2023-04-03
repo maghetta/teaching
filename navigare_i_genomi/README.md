@@ -13,4 +13,5 @@
 
 
 **Qui invece un tour per immagini del UCSC Genome Browser:**
-⋅⋅* [Tour dell'UCSC Genome Browser]()
+
+⋅⋅* [Tour dell'UCSC Genome Browser](https://github.com/maghetta/teaching/blob/master/navigare_i_genomi/4_Esplorazione_dei_genomi__diapositive.pdf)
