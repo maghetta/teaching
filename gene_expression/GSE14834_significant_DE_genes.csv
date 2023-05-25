@@ -1,0 +1,596 @@
+"ID"	"Gene.symbol"	"Gene.title"	"log2(fold change)(T vs B)"	"-log10(Pvalue)(T vs B)"
+"1552274_at"	"PXK"	"PX domain containing serine/threonine kinase like"	-2.814	4.987
+"1552275_s_at"	"PXK"	"PX domain containing serine/threonine kinase like"	-3.825	4.308
+"1552388_at"	"FLJ30901///SCUBE1"	"uncharacterized protein FLJ30901///signal peptide, CUB domain and EGF like domain containing 1"	3.844	4.293
+"1552671_a_at"	"SLC9A7"	"solute carrier family 9 member A7"	-4.508	5.786
+"1553369_at"	"FAM129C"	"family with sequence similarity 129 member C"	-4.943	4.833
+"1553644_at"	"SYNE3"	"spectrin repeat containing nuclear envelope family member 3"	-1.863	3.575
+"1553685_s_at"	"SP1"	"Sp1 transcription factor"	-1.783	3.702
+"1553962_s_at"	"RHOB"	"ras homolog family member B"	-3.523	3.9
+"1553991_s_at"	"LOC101928274///VSIG10"	"uncharacterized LOC101928274///V-set and immunoglobulin domain containing 10"	-2.373	4.941
+"1553998_at"	"DMRTC1B///DMRTC1"	"DMRT like family C1B///DMRT like family C1"	2.744	4.437
+"1554026_a_at"	"MYO10"	"myosin X"	-4.566	3.48
+"1554030_at"	"ARSB"	"arylsulfatase B"	-3.177	4
+"1554062_at"	"XG"	"Xg blood group"	4.457	3.334
+"1554298_a_at"	"WDR49"	"WD repeat domain 49"	-5.65	5.072
+"1554311_a_at"	"SUPT6H"	"SPT6 homolog, histone chaperone"	-2.809	3.527
+"1554343_a_at"	"STAP1"	"signal transducing adaptor family member 1"	-4.6	4.382
+"1554508_at"	"PIK3AP1"	"phosphoinositide-3-kinase adaptor protein 1"	-4.2	6.192
+"1554544_a_at"	"MBP"	"myelin basic protein"	-2.875	3.914
+"1554821_a_at"	"ZBED1"	"zinc finger BED-type containing 1"	-2.371	3.652
+"1554938_a_at"	"ACOT11"	"acyl-CoA thioesterase 11"	-2.697	3.336
+"1554980_a_at"	"ATF3"	"activating transcription factor 3"	-2.179	3.367
+"1555355_a_at"	"ETS1"	"ETS proto-oncogene 1, transcription factor"	2.707	3.698
+"1555425_x_at"	"SSH2"	"slingshot protein phosphatase 2"	-2.427	3.37
+"1555562_a_at"	"ZCCHC7"	"zinc finger CCHC-type containing 7"	-2.509	4.106
+"1555630_a_at"	"NARR///RAB34"	"nine-amino acid residue-repeats///RAB34, member RAS oncogene family"	-4.489	4.615
+"1555779_a_at"	"CD79A"	"CD79a molecule"	-2.799	4.053
+"1555851_s_at"	"SEPW1"	"selenoprotein W, 1"	2.764	3.722
+"1556114_a_at"	"LOC101928841"	"collagen alpha-1(II) chain-like"	-3.118	3.507
+"1556402_at"			3.851	3.461
+"1556579_s_at"	"IGSF10"	"immunoglobulin superfamily member 10"	3.348	4.505
+"1557411_s_at"	"SLC25A43"	"solute carrier family 25 member 43"	-4.5	3.988
+"1557856_at"			-2.863	4.044
+"1558105_a_at"	"SLC9A7"	"solute carrier family 9 member A7"	-2.657	4.124
+"1558124_at"	"NUDCD2"	"NudC domain containing 2"	2.478	3.954
+"1558315_s_at"	"HOOK3"	"hook microtubule tethering protein 3"	-2.844	3.61
+"1558662_s_at"	"BANK1"	"B-cell scaffold protein with ankyrin repeats 1"	-6.346	5.671
+"1559051_s_at"	"MB21D1"	"Mab-21 domain containing 1"	-3.654	5.007
+"1559097_at"	"LINC01550"	"long intergenic non-protein coding RNA 1550"	4.135	4.084
+"1559221_at"	"LINC01013"	"long intergenic non-protein coding RNA 1013"	-3.914	4.894
+"1559263_s_at"	"ZC3H12D"	"zinc finger CCCH-type containing 12D"	-3.545	5.783
+"1559276_at"	"PCAT18"	"prostate cancer associated transcript 18 (non-protein coding)"	5.614	4.409
+"1559864_at"	"LCN6"	"lipocalin 6"	-2.926	3.341
+"1560989_at"			-3.011	3.577
+"1561737_at"			-5.454	6.12
+"1562473_at"			7.21	8.284
+"1562984_at"	"LOC101928937"	"uncharacterized LOC101928937"	-2.038	3.519
+"1563209_a_at"	"MACROD2"	"MACRO domain containing 2"	-6.064	7.098
+"1564169_at"	"LOC101928519"	"uncharacterized LOC101928519"	-3.061	4.463
+"1564936_at"			2.885	5.169
+"1564970_at"	"SETDB2"	"SET domain bifurcated 2"	-3.97	3.806
+"1565628_at"	"LRRK1"	"leucine rich repeat kinase 1"	-3.24	4.468
+"1568955_at"	"SRGAP2C///SRGAP2B///SRGAP2"	"SLIT-ROBO Rho GTPase activating protein 2C///SLIT-ROBO Rho GTPase activating protein 2B///SLIT-ROBO Rho GTPase activating protein 2"	-2.795	5.626
+"1568957_x_at"	"SRGAP2C///SRGAP2B///SRGAP2"	"SLIT-ROBO Rho GTPase activating protein 2C///SLIT-ROBO Rho GTPase activating protein 2B///SLIT-ROBO Rho GTPase activating protein 2"	-2.03	4.613
+"1569034_a_at"	"LOC440864///MSH6"	"uncharacterized LOC440864///mutS homolog 6"	-4.144	3.842
+"1570152_at"			-2.946	3.656
+"1570412_at"			3.949	4.5
+"200770_s_at"	"LAMC1"	"laminin subunit gamma 1"	-2.298	3.408
+"200771_at"	"LAMC1"	"laminin subunit gamma 1"	-3.928	4.646
+"200832_s_at"	"SCD"	"stearoyl-CoA desaturase"	4.949	4.916
+"201005_at"	"CD9"	"CD9 molecule"	-5.67	4.406
+"201015_s_at"	"JUP"	"junction plakoglobin"	-4.069	5.851
+"201060_x_at"	"STOM"	"stomatin"	-2.593	3.519
+"201061_s_at"	"STOM"	"stomatin"	-2.408	3.428
+"201137_s_at"	"HLA-DPB1"	"major histocompatibility complex, class II, DP beta 1"	-4.132	4.828
+"201140_s_at"	"RAB5C"	"RAB5C, member RAS oncogene family"	-2.181	3.842
+"201162_at"	"IGFBP7"	"insulin like growth factor binding protein 7"	-5.458	3.271
+"201194_at"	"SEPW1"	"selenoprotein W, 1"	2.822	3.321
+"201218_at"	"CTBP2"	"C-terminal binding protein 2"	-3.574	4.372
+"201219_at"	"CTBP2"	"C-terminal binding protein 2"	-2.951	4.211
+"201220_x_at"	"CTBP2"	"C-terminal binding protein 2"	-2.983	3.959
+"201313_at"	"ENO2"	"enolase 2"	4.133	3.753
+"201565_s_at"	"ID2"	"inhibitor of DNA binding 2, HLH protein"	-2.93	3.508
+"201646_at"	"SCARB2"	"scavenger receptor class B member 2"	-2.36	3.821
+"201647_s_at"	"SCARB2"	"scavenger receptor class B member 2"	-2.666	5.261
+"201720_s_at"	"LAPTM5"	"lysosomal protein transmembrane 5"	-2.221	4.72
+"201721_s_at"	"LAPTM5"	"lysosomal protein transmembrane 5"	-1.83	4.838
+"201809_s_at"	"ENG"	"endoglin"	-4.287	3.896
+"201976_s_at"	"MYO10"	"myosin X"	-3.083	3.27
+"201999_s_at"	"DYNLT1"	"dynein light chain Tctex-type 1"	-2.011	3.852
+"202080_s_at"	"TRAK1"	"trafficking kinesin protein 1"	-2.318	3.846
+"202113_s_at"	"SNX2"	"sorting nexin 2"	-3.167	8.052
+"202114_at"	"SNX2"	"sorting nexin 2"	-2.537	6.533
+"202284_s_at"	"CDKN1A"	"cyclin dependent kinase inhibitor 1A"	-3.853	4.648
+"202382_s_at"	"GNPDA1"	"glucosamine-6-phosphate deaminase 1"	4.743	3.976
+"202425_x_at"	"PPP3CA"	"protein phosphatase 3 catalytic subunit alpha"	-3.263	5.712
+"202429_s_at"	"PPP3CA"	"protein phosphatase 3 catalytic subunit alpha"	-4.053	6.484
+"202457_s_at"	"PPP3CA"	"protein phosphatase 3 catalytic subunit alpha"	-4.033	6.611
+"202598_at"	"S100A13"	"S100 calcium binding protein A13"	-3.066	4.619
+"202660_at"	"ITPR2"	"inositol 1,4,5-trisphosphate receptor type 2"	1.927	3.27
+"202711_at"	"EFNB1"	"ephrin B1"	-2.495	3.443
+"202723_s_at"	"FOXO1"	"forkhead box O1"	-4.227	5.409
+"202724_s_at"	"FOXO1"	"forkhead box O1"	-3.182	4.76
+"202743_at"	"PIK3R3"	"phosphoinositide-3-kinase regulatory subunit 3"	2.361	4.151
+"202789_at"	"PLCG1"	"phospholipase C gamma 1"	2.685	4.032
+"202804_at"	"ABCC1"	"ATP binding cassette subfamily C member 1"	1.738	3.708
+"203066_at"	"CHST15"	"carbohydrate (N-acetylgalactosamine 4-sulfate 6-O) sulfotransferase 15"	-4.982	5.978
+"203144_s_at"	"KIAA0040"	"KIAA0040"	-1.928	3.472
+"203182_s_at"	"SRPK2"	"SRSF protein kinase 2"	1.796	3.922
+"203244_at"	"PEX5"	"peroxisomal biogenesis factor 5"	2.306	4.805
+"203354_s_at"	"PSD3"	"pleckstrin and Sec7 domain containing 3"	-4.904	3.59
+"203355_s_at"	"PSD3"	"pleckstrin and Sec7 domain containing 3"	-5.703	6.547
+"203556_at"	"ZHX2"	"zinc fingers and homeoboxes 2"	-2.081	4.196
+"203603_s_at"	"ZEB2"	"zinc finger E-box binding homeobox 2"	-3.374	3.572
+"203708_at"	"PDE4B"	"phosphodiesterase 4B"	-5.327	3.774
+"203735_x_at"	"PPFIBP1"	"PPFIA binding protein 1"	-2.495	3.282
+"203736_s_at"	"PPFIBP1"	"PPFIA binding protein 1"	-2.88	3.602
+"203767_s_at"	"STS"	"steroid sulfatase (microsomal), isozyme S"	-2.069	3.617
+"203768_s_at"	"STS"	"steroid sulfatase (microsomal), isozyme S"	-2.105	3.369
+"203821_at"	"HBEGF"	"heparin binding EGF like growth factor"	-3.755	3.451
+"203828_s_at"	"IL32"	"interleukin 32"	5.702	6.152
+"203836_s_at"	"MAP3K5"	"mitogen-activated protein kinase kinase kinase 5"	-3.725	4.197
+"203837_at"	"MAP3K5"	"mitogen-activated protein kinase kinase kinase 5"	-2.88	3.775
+"203869_at"	"USP46"	"ubiquitin specific peptidase 46"	-2.838	3.421
+"203917_at"	"CXADR"	"coxsackie virus and adenovirus receptor"	4.037	3.583
+"203932_at"	"HLA-DMB"	"major histocompatibility complex, class II, DM beta"	-3.202	3.861
+"203997_at"	"PTPN3"	"protein tyrosine phosphatase, non-receptor type 3"	3.001	3.423
+"204061_at"	"PRKX"	"protein kinase, X-linked"	-2.145	3.544
+"204164_at"	"SIPA1"	"signal-induced proliferation-associated 1"	-2.788	5.09
+"204214_s_at"	"RAB32"	"RAB32, member RAS oncogene family"	4.665	6.705
+"204319_s_at"	"RGS10"	"regulator of G-protein signaling 10"	3.336	5.212
+"204430_s_at"	"SLC2A5"	"solute carrier family 2 member 5"	-4.303	4.249
+"204482_at"	"CLDN5"	"claudin 5"	4.729	5.645
+"204497_at"	"ADCY9"	"adenylate cyclase 9"	-3.52	3.347
+"204529_s_at"	"TOX"	"thymocyte selection associated high mobility group box"	3.194	3.416
+"204581_at"	"CD22"	"CD22 molecule"	-4.706	4.923
+"204604_at"	"CDK14"	"cyclin dependent kinase 14"	-5.102	5.413
+"204613_at"	"PLCG2"	"phospholipase C gamma 2"	-2.05	4.013
+"204639_at"	"ADA"	"adenosine deaminase"	1.998	4.064
+"204670_x_at"	"LOC100996809///HLA-DRB4///HLA-DRB1"	"HLA class II histocompatibility antigen, DRB1-10 beta chain-like///major histocompatibility complex, class II, DR beta 4///major histocompatibility complex, class II, DR beta 1"	-4.659	6.698
+"204718_at"	"EPHB6"	"EPH receptor B6"	4.85	5.54
+"204777_s_at"	"MAL"	"mal, T-cell differentiation protein"	6.581	3.774
+"204890_s_at"	"LCK"	"LCK proto-oncogene, Src family tyrosine kinase"	5.002	4.403
+"204891_s_at"	"LCK"	"LCK proto-oncogene, Src family tyrosine kinase"	5.366	4.467
+"204936_at"	"MAP4K2"	"mitogen-activated protein kinase kinase kinase kinase 2"	-4.234	6.838
+"205008_s_at"	"CIB2"	"calcium and integrin binding family member 2"	4.226	5.91
+"205018_s_at"	"MBNL2"	"muscleblind like splicing regulator 2"	-2.55	3.617
+"205049_s_at"	"CD79A"	"CD79a molecule"	-3.359	3.839
+"205101_at"	"CIITA"	"class II major histocompatibility complex transactivator"	-5.606	6.604
+"205104_at"	"SNPH"	"syntaphilin"	2.637	4.747
+"205212_s_at"	"ACAP1"	"ArfGAP with coiled-coil, ankyrin repeat and PH domains 1"	1.846	3.278
+"205254_x_at"	"TCF7"	"transcription factor 7 (T-cell specific, HMG-box)"	4.425	3.466
+"205255_x_at"	"TCF7"	"transcription factor 7 (T-cell specific, HMG-box)"	4.023	4.038
+"205262_at"	"KCNH2"	"potassium voltage-gated channel subfamily H member 2"	2.762	3.606
+"205297_s_at"	"CD79B"	"CD79b molecule"	-3.763	5.309
+"205456_at"	"CD3E"	"CD3e molecule"	4.068	7.548
+"205504_at"	"BTK"	"Bruton tyrosine kinase"	-4.707	6.71
+"205830_at"	"CLGN"	"calmegin"	5.221	3.548
+"205859_at"	"LY86"	"lymphocyte antigen 86"	-3.131	5.254
+"205994_at"	"ELK4"	"ELK4, ETS transcription factor"	-2.386	4.732
+"206082_at"	"HCP5"	"HLA complex P5 (non-protein coding)"	-3.104	3.311
+"206100_at"	"CPM"	"carboxypeptidase M"	-5.463	3.583
+"206148_at"	"IL3RA"	"interleukin 3 receptor subunit alpha"	-3.758	3.395
+"206190_at"	"GPR17"	"G protein-coupled receptor 17"	4.886	5.717
+"206398_s_at"	"CD19"	"CD19 molecule"	-6.741	11.049
+"206414_s_at"	"ASAP2"	"ArfGAP with SH3 domain, ankyrin repeat and PH domain 2"	-3.6	4.446
+"206460_at"	"AJAP1"	"adherens junctions associated protein 1"	4.943	4.917
+"206465_at"	"ACSBG1"	"acyl-CoA synthetase bubblegum family member 1"	2.805	3.53
+"206473_at"	"MBTPS2"	"membrane bound transcription factor peptidase, site 2"	-1.961	3.363
+"206530_at"	"RAB30"	"RAB30, member RAS oncogene family"	-2.309	3.383
+"206545_at"	"CD28"	"CD28 molecule"	3.826	4.696
+"206585_at"	"MKRN3"	"makorin ring finger protein 3"	3.265	3.459
+"206597_at"	"NRL"	"neural retina leucine zipper"	-2.178	3.51
+"206683_at"	"ZNF165"	"zinc finger protein 165"	-3.576	4.347
+"206804_at"	"CD3G"	"CD3g molecule"	6.061	6.603
+"206896_s_at"	"GNG7"	"G protein subunit gamma 7"	-3.469	6.214
+"207015_s_at"	"ALDH1A2"	"aldehyde dehydrogenase 1 family member A2"	4.433	4.512
+"207016_s_at"	"LOC101928635///ALDH1A2"	"uncharacterized LOC101928635///aldehyde dehydrogenase 1 family member A2"	8.108	6.55
+"207030_s_at"	"CSRP2"	"cysteine and glycine rich protein 2"	-5.284	5.656
+"207112_s_at"	"GAB1"	"GRB2 associated binding protein 1"	-4.002	4.882
+"207571_x_at"	"THEMIS2"	"thymocyte selection associated family member 2"	-4.177	3.734
+"207614_s_at"	"CUL1"	"cullin 1"	-2.547	4.258
+"207655_s_at"	"BLNK"	"B-cell linker"	-6.595	7.467
+"207857_at"	"LILRA2"	"leukocyte immunoglobulin like receptor A2"	-4.007	5.028
+"207968_s_at"	"MEF2C"	"myocyte enhancer factor 2C"	-4.858	7.544
+"208033_s_at"	"ZFHX3"	"zinc finger homeobox 3"	-3.981	3.287
+"208068_x_at"	"GH2///GH1///CSHL1///CSH1"	"growth hormone 2///growth hormone 1///chorionic somatomammotropin hormone like 1///chorionic somatomammotropin hormone 1"	-2.234	3.987
+"208178_x_at"	"TRIO"	"trio Rho guanine nucleotide exchange factor"	-4.351	3.843
+"208306_x_at"	"HLA-DRB1"	"major histocompatibility complex, class II, DR beta 1"	-4.488	6.696
+"208406_s_at"	"GRAP2"	"GRB2-related adaptor protein 2"	3.548	4.44
+"208650_s_at"	"CD24"	"CD24 molecule"	-4.968	3.398
+"208782_at"	"FSTL1"	"follistatin like 1"	4.573	3.411
+"208820_at"	"PTK2"	"protein tyrosine kinase 2"	-5.291	5.581
+"208872_s_at"	"REEP5"	"receptor accessory protein 5"	-1.665	3.515
+"208894_at"	"HLA-DRA"	"major histocompatibility complex, class II, DR alpha"	-6.775	6.329
+"208913_at"	"GGA2"	"golgi associated, gamma adaptin ear containing, ARF binding protein 2"	-2.611	6.376
+"208914_at"	"GGA2"	"golgi associated, gamma adaptin ear containing, ARF binding protein 2"	-2.022	3.499
+"208915_s_at"	"GGA2"	"golgi associated, gamma adaptin ear containing, ARF binding protein 2"	-2.733	3.859
+"209012_at"	"TRIO"	"trio Rho guanine nucleotide exchange factor"	-2.561	3.458
+"209051_s_at"	"RALGDS"	"ral guanine nucleotide dissociation stimulator"	-2.31	3.54
+"209101_at"	"CTGF"	"connective tissue growth factor"	-8.157	4.311
+"209183_s_at"	"C10orf10"	"chromosome 10 open reading frame 10"	-5.35	5.415
+"209185_s_at"	"IRS2"	"insulin receptor substrate 2"	-2.931	3.454
+"209198_s_at"	"SYT11"	"synaptotagmin 11"	-2.16	3.437
+"209199_s_at"	"MEF2C"	"myocyte enhancer factor 2C"	-6.926	8.851
+"209200_at"	"MEF2C"	"myocyte enhancer factor 2C"	-6.655	7.619
+"209228_x_at"	"TUSC3"	"tumor suppressor candidate 3"	5.016	6.903
+"209238_at"	"STX3"	"syntaxin 3"	-2.358	3.41
+"209306_s_at"	"SWAP70"	"SWAP switching B-cell complex 70kDa subunit"	-3.149	5.127
+"209307_at"	"SWAP70"	"SWAP switching B-cell complex 70kDa subunit"	-3.207	5.252
+"209312_x_at"	"LOC101060835///LOC100996809///HLA-DRB5///HLA-DRB4///HLA-DRB1///HLA-DQB1"	"HLA class II histocompatibility antigen, DQ beta 1 chain-like///HLA class II histocompatibility antigen, DRB1-10 beta chain-like///major histocompatibility complex, class II, DR beta 5///major histocompatibility complex, class II, DR beta 4///major histocompatibility complex, class II, DR beta 1///major histocompatibility complex, class II, DQ beta 1"	-4.466	6.205
+"209324_s_at"	"RGS16"	"regulator of G-protein signaling 16"	-3.871	3.671
+"209374_s_at"	"IGHM"	"immunoglobulin heavy constant mu"	-4.712	4.106
+"209409_at"	"GRB10"	"growth factor receptor bound protein 10"	-2.22	3.861
+"209544_at"	"RIPK2"	"receptor interacting serine/threonine kinase 2"	-2.793	6.253
+"209545_s_at"	"RIPK2"	"receptor interacting serine/threonine kinase 2"	-3.228	3.98
+"209568_s_at"	"RGL1"	"ral guanine nucleotide dissociation stimulator like 1"	-3.613	3.517
+"209619_at"	"CD74"	"CD74 molecule"	-5.478	8.756
+"209683_at"	"FAM49A"	"family with sequence similarity 49 member A"	-5.051	4.864
+"209706_at"	"NKX3-1"	"NK3 homeobox 1"	4.89	3.811
+"209771_x_at"	"CD24"	"CD24 molecule"	-5.082	3.489
+"209823_x_at"	"LOC101060835///HLA-DQB1"	"HLA class II histocompatibility antigen, DQ beta 1 chain-like///major histocompatibility complex, class II, DQ beta 1"	-4.835	4.914
+"209826_at"	"PPT2-EGFL8///EGFL8///PPT2"	"PPT2-EGFL8 readthrough (NMD candidate)///EGF like domain multiple 8///palmitoyl-protein thioesterase 2"	1.488	3.439
+"209881_s_at"	"LAT"	"linker for activation of T-cells"	5.147	6.897
+"209995_s_at"	"TCL1A"	"T-cell leukemia/lymphoma 1A"	-7.139	4.688
+"210038_at"	"PRKCQ"	"protein kinase C theta"	3.622	6.217
+"210039_s_at"	"PRKCQ"	"protein kinase C theta"	3.043	4.314
+"210055_at"	"TSHR"	"thyroid stimulating hormone receptor"	5.918	6.58
+"210116_at"	"SH2D1A"	"SH2 domain containing 1A"	6.511	6.091
+"210136_at"	"MBP"	"myelin basic protein"	-3.579	3.905
+"210176_at"	"TLR1"	"toll like receptor 1"	-3.029	5.462
+"210325_at"	"CD1A"	"CD1a molecule"	3.467	4.628
+"210422_x_at"	"SLC11A1"	"solute carrier family 11 member 1"	-3.128	3.28
+"210439_at"	"ICOS"	"inducible T-cell costimulator"	3.517	3.58
+"210450_at"	"IGHV5-78"	"immunoglobulin heavy variable 5-78 (pseudogene)"	-5.37	8.533
+"210452_x_at"	"CYP4F2"	"cytochrome P450 family 4 subfamily F member 2"	3.885	5.883
+"210554_s_at"	"CTBP2"	"C-terminal binding protein 2"	-2.923	4.21
+"210658_s_at"	"GGA2"	"golgi associated, gamma adaptin ear containing, ARF binding protein 2"	-2.647	4.33
+"210835_s_at"	"CTBP2"	"C-terminal binding protein 2"	-3.177	3.994
+"210844_x_at"	"CTNNA1"	"catenin alpha 1"	-1.999	3.283
+"210871_x_at"	"SSX2IP"	"SSX family member 2 interacting protein"	1.579	3.389
+"210915_x_at"	"TRBC1"	"T cell receptor beta constant 1"	5.912	9.192
+"210982_s_at"	"HLA-DRA"	"major histocompatibility complex, class II, DR alpha"	-6.604	6.489
+"210999_s_at"	"GRB10"	"growth factor receptor bound protein 10"	-1.775	3.463
+"211000_s_at"	"IL6ST"	"interleukin 6 signal transducer"	-2.773	3.56
+"211005_at"	"LAT"	"linker for activation of T-cells"	6.397	7.266
+"211091_s_at"	"NF2"	"neurofibromin 2"	-2.538	3.897
+"211101_x_at"	"LILRA2"	"leukocyte immunoglobulin like receptor A2"	-3.585	3.676
+"211102_s_at"	"LILRA2"	"leukocyte immunoglobulin like receptor A2"	-3.394	4.049
+"211126_s_at"	"CSRP2"	"cysteine and glycine rich protein 2"	-4.232	4.21
+"211209_x_at"	"SH2D1A"	"SH2 domain containing 1A"	6.1	6.065
+"211210_x_at"	"SH2D1A"	"SH2 domain containing 1A"	5.719	5.614
+"211211_x_at"	"SH2D1A"	"SH2 domain containing 1A"	5.464	5.39
+"211252_x_at"	"PTCRA"	"pre T-cell antigen receptor alpha"	2.03	3.645
+"211302_s_at"	"PDE4B"	"phosphodiesterase 4B"	-4.877	3.308
+"211336_x_at"	"LILRB1"	"leukocyte immunoglobulin like receptor B1"	-2.897	4.482
+"211339_s_at"	"ITK"	"IL2 inducible T-cell kinase"	3.446	3.798
+"211450_s_at"	"MSH6"	"mutS homolog 6"	-2.109	3.697
+"211795_s_at"	"FYB"	"FYN binding protein"	3.218	4.713
+"211796_s_at"	"TRBC1"	"T cell receptor beta constant 1"	6.68	7.772
+"211890_x_at"	"CAPN3"	"calpain 3"	-3.606	3.956
+"211959_at"	"IGFBP5"	"insulin like growth factor binding protein 5"	5.238	4.024
+"211990_at"	"HLA-DPA1"	"major histocompatibility complex, class II, DP alpha 1"	-4.712	8.152
+"211991_s_at"	"HLA-DPA1"	"major histocompatibility complex, class II, DP alpha 1"	-5.043	6.941
+"212099_at"	"RHOB"	"ras homolog family member B"	-3.396	3.272
+"212358_at"	"CLIP3"	"CAP-Gly domain containing linker protein 3"	4.111	3.438
+"212382_at"	"TCF4"	"transcription factor 4"	-3.618	3.349
+"212385_at"	"TCF4"	"transcription factor 4"	-4.962	3.909
+"212398_at"	"RDX"	"radixin"	-1.749	3.403
+"212549_at"	"STAT5B"	"signal transducer and activator of transcription 5B"	1.615	3.851
+"212599_at"	"AUTS2"	"autism susceptibility candidate 2"	-2.81	4.386
+"212655_at"	"ZCCHC14"	"zinc finger CCHC-type containing 14"	-2.095	3.38
+"212713_at"	"MFAP4"	"microfibrillar associated protein 4"	5.201	6.947
+"212719_at"	"PHLPP1"	"PH domain and leucine rich repeat protein phosphatase 1"	-3.364	4.557
+"212730_at"	"SYNM"	"synemin"	-3.704	4.211
+"212813_at"	"JAM3"	"junctional adhesion molecule 3"	3.373	7.157
+"212827_at"	"IGHM"	"immunoglobulin heavy constant mu"	-4.362	3.784
+"212975_at"	"DENND3"	"DENN domain containing 3"	-2.594	4.058
+"212998_x_at"	"LOC101060835///HLA-DQB1"	"HLA class II histocompatibility antigen, DQ beta 1 chain-like///major histocompatibility complex, class II, DQ beta 1"	-4.995	3.71
+"213060_s_at"	"CHI3L2"	"chitinase 3 like 2"	5.179	6.601
+"213193_x_at"	"TRBC1"	"T cell receptor beta constant 1"	5.201	7.776
+"213256_at"	"MARCH3"	"membrane associated ring-CH-type finger 3"	-3.058	4.024
+"213283_s_at"	"SALL2"	"spalt like transcription factor 2"	2.896	3.89
+"213423_x_at"	"TUSC3"	"tumor suppressor candidate 3"	5.274	5.555
+"213485_s_at"	"ABCC10"	"ATP binding cassette subfamily C member 10"	2.11	5.1
+"213537_at"	"HLA-DPA1"	"major histocompatibility complex, class II, DP alpha 1"	-4.56	7.018
+"213539_at"	"CD3D"	"CD3d molecule"	6.873	12.707
+"213601_at"	"SLIT1"	"slit guidance ligand 1"	2.915	3.836
+"213638_at"	"PHACTR1"	"phosphatase and actin regulator 1"	-3.444	3.615
+"213645_at"	"ENOSF1"	"enolase superfamily member 1"	2.947	3.678
+"213657_s_at"			2.038	3.59
+"213772_s_at"	"GGA2"	"golgi associated, gamma adaptin ear containing, ARF binding protein 2"	-2.859	6.175
+"213792_s_at"	"INSR"	"insulin receptor"	-2.928	3.52
+"213830_at"	"YME1L1"	"YME1 like 1 ATPase"	5.747	4.59
+"213958_at"	"CD6"	"CD6 molecule"	3.833	4.337
+"214032_at"	"ZAP70"	"zeta chain of T cell receptor associated protein kinase 70"	2.83	3.267
+"214049_x_at"	"CD7"	"CD7 molecule"	3.605	5.007
+"214186_s_at"	"HCG26"	"HLA complex group 26 (non-protein coding)"	-2.717	3.309
+"214190_x_at"	"GGA2"	"golgi associated, gamma adaptin ear containing, ARF binding protein 2"	-3.275	6.524
+"214390_s_at"	"BCAT1"	"branched chain amino acid transaminase 1"	-3.298	3.647
+"214475_x_at"	"CAPN3"	"calpain 3"	-4.143	4.509
+"214551_s_at"	"CD7"	"CD7 molecule"	3.788	3.996
+"214862_x_at"	"TET1"	"tet methylcytosine dioxygenase 1"	4.281	5.128
+"214924_s_at"	"TRAK1"	"trafficking kinesin protein 1"	-1.859	3.531
+"215117_at"	"RAG2"	"recombination activating gene 2"	-3.066	3.336
+"215149_at"	"AJAP1"	"adherens junctions associated protein 1"	5.061	5.081
+"215193_x_at"	"LOC101060835///LOC100996809///HLA-DRB4///HLA-DRB3///HLA-DRB1///HLA-DQB1"	"HLA class II histocompatibility antigen, DQ beta 1 chain-like///HLA class II histocompatibility antigen, DRB1-10 beta chain-like///major histocompatibility complex, class II, DR beta 4///major histocompatibility complex, class II, DR beta 3///major histocompatibility complex, class II, DR beta 1///major histocompatibility complex, class II, DQ beta 1"	-4.78	6.128
+"215210_s_at"	"DLST"	"dihydrolipoamide S-succinyltransferase"	-2.085	4.225
+"215307_at"	"ZNF529"	"zinc finger protein 529"	3.166	3.426
+"215442_s_at"	"TSHR"	"thyroid stimulating hormone receptor"	5.332	4.903
+"215443_at"	"TSHR"	"thyroid stimulating hormone receptor"	5.921	5.637
+"215543_s_at"	"LARGE1"	"LARGE xylosyl- and glucuronyltransferase 1"	-3.693	3.462
+"215789_s_at"	"AJAP1"	"adherens junctions associated protein 1"	4.417	3.561
+"215790_at"	"AJAP1"	"adherens junctions associated protein 1"	4.787	5.296
+"215925_s_at"	"CD72"	"CD72 molecule"	-4.583	5.697
+"215936_s_at"	"KIAA1033"	"KIAA1033"	-1.888	3.369
+"216191_s_at"	"TRDV3"	"T cell receptor delta variable 3"	5.206	3.642
+"216218_s_at"	"PLCL2"	"phospholipase C like 2"	-2.864	3.791
+"216379_x_at"	"CD24"	"CD24 molecule"	-4.778	3.372
+"216617_s_at"	"MAG"	"myelin associated glycoprotein"	2.249	4.242
+"216799_at"			-3.018	3.742
+"216915_s_at"	"PTPN12"	"protein tyrosine phosphatase, non-receptor type 12"	-3.43	3.42
+"216942_s_at"	"CD58"	"CD58 molecule"	-2.586	3.762
+"217143_s_at"	"YME1L1"	"YME1 like 1 ATPase"	5.294	4.249
+"217147_s_at"	"TRAT1"	"T cell receptor associated transmembrane adaptor 1"	6.688	5.648
+"217184_s_at"	"LTK"	"leukocyte receptor tyrosine kinase"	-3.009	3.366
+"217234_s_at"	"EZR"	"ezrin"	-2.594	3.542
+"217326_x_at"	"IL23A///TRBV19"	"interleukin 23 subunit alpha///T cell receptor beta variable 19"	2.507	3.666
+"217478_s_at"	"HLA-DMA"	"major histocompatibility complex, class II, DM alpha"	-4.294	6.238
+"217513_at"	"MILR1"	"mast cell immunoglobulin like receptor 1"	-4.087	3.774
+"217755_at"	"HN1"	"hematological and neurological expressed 1"	2.541	4.21
+"217901_at"	"DSG2"	"desmoglein 2"	5.886	4.69
+"217963_s_at"	"BEX3"	"brain expressed X-linked 3"	6.921	8.162
+"217979_at"	"TSPAN13"	"tetraspanin 13"	-2.709	4.126
+"218087_s_at"	"SORBS1"	"sorbin and SH3 domain containing 1"	-3.491	3.428
+"218145_at"	"TRIB3"	"tribbles pseudokinase 3"	1.757	3.639
+"218472_s_at"	"PELO"	"pelota homolog (Drosophila)"	2.009	4.409
+"218613_at"	"PSD3"	"pleckstrin and Sec7 domain containing 3"	-4.793	6.865
+"218627_at"	"DRAM1"	"DNA damage regulated autophagy modulator 1"	-3.166	4.989
+"218675_at"	"SLC22A17"	"solute carrier family 22 member 17"	3.426	3.909
+"218740_s_at"	"CDK5RAP3"	"CDK5 regulatory subunit associated protein 3"	1.873	3.82
+"218826_at"	"SLC35F2"	"solute carrier family 35 member F2"	-2.637	3.784
+"218829_s_at"	"CHD7"	"chromodomain helicase DNA binding protein 7"	-4.44	3.46
+"218902_at"	"NOTCH1"	"notch 1"	1.991	4.018
+"218942_at"	"PIP4K2C"	"phosphatidylinositol-5-phosphate 4-kinase type 2 gamma"	2.846	3.872
+"218963_s_at"	"KRT23"	"keratin 23"	2.281	3.404
+"219157_at"	"KLHL2"	"kelch like family member 2"	-3.144	3.479
+"219179_at"	"DACT1"	"dishevelled binding antagonist of beta catenin 1"	-3.138	3.287
+"219191_s_at"	"BIN2"	"bridging integrator 2"	3.956	3.317
+"219271_at"	"GALNT14"	"polypeptide N-acetylgalactosaminyltransferase 14"	-3.625	5.35
+"219317_at"	"POLI"	"DNA polymerase iota"	1.919	3.43
+"219355_at"	"CXorf57"	"chromosome X open reading frame 57"	4.487	3.963
+"219359_at"	"PGGHG"	"protein-glucosylgalactosylhydroxylysine glucosidase"	2.336	3.831
+"219371_s_at"	"KLF2"	"Kruppel like factor 2"	-3.059	3.676
+"219441_s_at"	"LRRK1"	"leucine rich repeat kinase 1"	-3.895	5.83
+"219443_at"	"TASP1"	"taspase 1"	2.108	3.85
+"219517_at"	"ELL3"	"elongation factor for RNA polymerase II 3"	-2.136	3.298
+"219518_s_at"	"ELL3"	"elongation factor for RNA polymerase II 3"	-2.232	4.405
+"219528_s_at"	"BCL11B"	"B-cell CLL/lymphoma 11B"	5.45	5.54
+"219532_at"	"ELOVL4"	"ELOVL fatty acid elongase 4"	6.619	6.817
+"219541_at"	"LIME1"	"Lck interacting transmembrane adaptor 1"	3.038	4.156
+"219570_at"	"KIF16B"	"kinesin family member 16B"	-2.433	3.407
+"219582_at"	"OGFRL1"	"opioid growth factor receptor like 1"	-2.628	4.137
+"219607_s_at"	"MS4A4A"	"membrane spanning 4-domains A4A"	-3.841	3.503
+"219615_s_at"	"KCNK5"	"potassium two pore domain channel subfamily K member 5"	3.622	3.729
+"219631_at"	"LRP12"	"LDL receptor related protein 12"	5.543	5.073
+"219667_s_at"	"BANK1"	"B-cell scaffold protein with ankyrin repeats 1"	-4.854	4.51
+"219675_s_at"	"UXS1"	"UDP-glucuronate decarboxylase 1"	-1.632	3.41
+"219724_s_at"	"TESPA1"	"thymocyte expressed, positive selection associated 1"	2.688	5.452
+"220059_at"	"STAP1"	"signal transducing adaptor family member 1"	-3.696	3.415
+"220068_at"	"VPREB3"	"pre-B lymphocyte 3"	-5.797	5.551
+"220137_at"	"LOC101928274///VSIG10"	"uncharacterized LOC101928274///V-set and immunoglobulin domain containing 10"	-2.061	3.371
+"220145_at"	"MAP9"	"microtubule associated protein 9"	3.854	3.668
+"220253_s_at"	"LRP12"	"LDL receptor related protein 12"	5.368	4.349
+"220254_at"	"LRP12"	"LDL receptor related protein 12"	5.408	5.202
+"220319_s_at"	"MYLIP"	"myosin regulatory light chain interacting protein"	-3.073	3.33
+"220418_at"	"UBASH3A"	"ubiquitin associated and SH3 domain containing A"	5.944	6.892
+"220429_at"	"NDST3"	"N-deacetylase and N-sulfotransferase 3"	4.643	6.302
+"220506_at"	"GUCY1B2"	"guanylate cyclase 1 soluble subunit beta 2 (pseudogene)"	2.536	3.614
+"220565_at"	"CCR10"	"C-C motif chemokine receptor 10"	-2.616	3.718
+"220998_s_at"	"UNC93B1"	"unc-93 homolog B1 (C. elegans)"	-3.069	4.221
+"221081_s_at"	"DENND2D"	"DENN domain containing 2D"	3.006	3.763
+"221214_s_at"	"MIR7114///NSMF"	"microRNA 7114///NMDA receptor synaptonuclear signaling and neuronal migration factor"	-2.65	4.585
+"221249_s_at"	"FAM117A"	"family with sequence similarity 117 member A"	1.56	3.364
+"221349_at"	"VPREB1"	"pre-B lymphocyte 1"	-3.899	3.895
+"221357_at"	"CHRM4"	"cholinergic receptor muscarinic 4"	-2.988	6.278
+"221529_s_at"	"PLVAP"	"plasmalemma vesicle associated protein"	-4.878	4.027
+"221582_at"	"HIST3H2A"	"histone cluster 3, H2a"	3.72	4.155
+"221866_at"	"TFEB"	"transcription factor EB"	-2.921	4.746
+"221901_at"	"KIAA1644"	"KIAA1644"	4.194	4.573
+"221969_at"	"PAX5"	"paired box 5"	-7.223	8.499
+"222009_at"	"CEMP1"	"cementum protein 1"	2.048	3.584
+"222040_at"	"HNRNPA1"	"heterogeneous nuclear ribonucleoprotein A1"	2.528	3.685
+"222146_s_at"	"TCF4"	"transcription factor 4"	-4.158	3.588
+"222217_s_at"	"SLC27A3"	"solute carrier family 27 member 3"	-3.015	4.002
+"222248_s_at"	"SIRT4"	"sirtuin 4"	2.78	4.164
+"222396_at"	"HN1"	"hematological and neurological expressed 1"	2.337	4.178
+"222423_at"	"NDFIP1"	"Nedd4 family interacting protein 1"	3.351	3.286
+"222476_at"	"CNOT6"	"CCR4-NOT transcription complex subunit 6"	2.075	4.322
+"222482_at"	"SSBP3"	"single stranded DNA binding protein 3"	2.318	3.285
+"222573_s_at"	"SAV1"	"salvador family WW domain containing protein 1"	-1.95	3.604
+"222895_s_at"	"BCL11B"	"B-cell CLL/lymphoma 11B"	5.133	4.833
+"222910_s_at"	"PEX5L"	"peroxisomal biogenesis factor 5 like"	5.421	5.59
+"222915_s_at"	"BANK1"	"B-cell scaffold protein with ankyrin repeats 1"	-4.459	4.324
+"223044_at"	"SLC40A1"	"solute carrier family 40 member 1"	3.175	4.252
+"223046_at"	"EGLN1"	"egl-9 family hypoxia inducible factor 1"	-4.705	3.78
+"223058_at"	"FAM107B"	"family with sequence similarity 107 member B"	-2.714	4.271
+"223059_s_at"	"FAM107B"	"family with sequence similarity 107 member B"	-3.884	5.086
+"223168_at"	"RHOU"	"ras homolog family member U"	4.403	3.924
+"223169_s_at"	"RHOU"	"ras homolog family member U"	3.541	3.527
+"223228_at"	"LDOC1L"	"leucine zipper down-regulated in cancer 1 like"	3.641	3.553
+"223314_at"	"TSPAN14"	"tetraspanin 14"	-1.837	3.456
+"223553_s_at"	"DOK3"	"docking protein 3"	-3.604	6.538
+"223696_at"	"ARSD"	"arylsulfatase D"	-3.452	4.693
+"223839_s_at"			4.405	4.733
+"223887_at"	"GPR132"	"G protein-coupled receptor 132"	-2.565	3.514
+"223912_s_at"	"CLN8"	"ceroid-lipofuscinosis, neuronal 8"	-3.184	3.917
+"224048_at"	"USP44"	"ubiquitin specific peptidase 44"	3.609	4.207
+"224311_s_at"	"CAB39"	"calcium binding protein 39"	-1.894	3.427
+"224359_s_at"	"HOOK3"	"hook microtubule tethering protein 3"	-2.926	4.146
+"224367_at"	"BEX2"	"brain expressed X-linked 2"	3.443	3.609
+"224507_s_at"	"MGC12916"	"uncharacterized protein MGC12916"	-3.574	3.894
+"224710_at"	"NARR///RAB34"	"nine-amino acid residue-repeats///RAB34, member RAS oncogene family"	-4.688	5.026
+"224774_s_at"	"NAV1"	"neuron navigator 1"	-4.968	3.698
+"224833_at"	"ETS1"	"ETS proto-oncogene 1, transcription factor"	3.228	3.616
+"225112_at"	"ABI2"	"abl-interactor 2"	1.861	3.304
+"225214_at"	"LOC100129034"	"uncharacterized LOC100129034"	-3.859	3.902
+"225258_at"	"FBLIM1"	"filamin binding LIM protein 1"	2.91	3.878
+"225280_x_at"	"ARSD"	"arylsulfatase D"	-2.734	4.606
+"225314_at"	"OCIAD2"	"OCIA domain containing 2"	3.358	4.046
+"225385_s_at"	"HNRNPLL"	"heterogeneous nuclear ribonucleoprotein L like"	3.778	4.4
+"225386_s_at"	"HNRNPLL"	"heterogeneous nuclear ribonucleoprotein L like"	4.582	3.404
+"225583_at"	"UXS1"	"UDP-glucuronate decarboxylase 1"	-2.078	3.942
+"225658_at"	"SPOPL"	"speckle type BTB/POZ protein like"	-2.332	4.185
+"225659_at"	"SPOPL"	"speckle type BTB/POZ protein like"	-2.647	5.207
+"225785_at"	"REEP3"	"receptor accessory protein 3"	-2.392	3.657
+"225796_at"	"PXK"	"PX domain containing serine/threonine kinase like"	-2.447	4.485
+"225827_at"	"AGO2"	"argonaute 2, RISC catalytic component"	-2.254	3.364
+"225869_s_at"	"UNC93B1"	"unc-93 homolog B1 (C. elegans)"	-3.465	3.966
+"226002_at"	"GAB1"	"GRB2 associated binding protein 1"	-4.611	4.189
+"226061_s_at"			-2.804	3.408
+"226123_at"	"CHD7"	"chromodomain helicase DNA binding protein 7"	-4.357	3.362
+"226137_at"	"ZFHX3"	"zinc finger homeobox 3"	-2.541	3.344
+"226157_at"	"TFDP2"	"transcription factor Dp-2"	2.511	5.375
+"226184_at"	"FMNL2"	"formin like 2"	-5.093	3.639
+"226244_at"	"CLEC14A"	"C-type lectin domain family 14 member A"	-6.351	4.856
+"226245_at"	"KCTD1"	"potassium channel tetramerization domain containing 1"	4.132	4.508
+"226246_at"	"KCTD1"	"potassium channel tetramerization domain containing 1"	2.943	3.652
+"226374_at"	"CXADR"	"coxsackie virus and adenovirus receptor"	5.576	4.923
+"226397_s_at"	"PHACTR1"	"phosphatase and actin regulator 1"	-2.734	4.244
+"226452_at"	"PDK1"	"pyruvate dehydrogenase kinase 1"	-2.111	3.488
+"226459_at"	"PIK3AP1"	"phosphoinositide-3-kinase adaptor protein 1"	-5.528	9.514
+"226485_at"	"LOC101928274///VSIG10"	"uncharacterized LOC101928274///V-set and immunoglobulin domain containing 10"	-3.249	4.428
+"226496_at"	"ZCCHC7"	"zinc finger CCHC-type containing 7"	-3.549	7.678
+"226546_at"	"LOC100506844"	"uncharacterized LOC100506844"	3.033	4.785
+"226549_at"	"SBK1"	"SH3 domain binding kinase 1"	4.156	3.428
+"226646_at"	"KLF2"	"Kruppel like factor 2"	-2.592	3.407
+"226676_at"	"ZNF521"	"zinc finger protein 521"	5.33	4.531
+"226677_at"	"ZNF521"	"zinc finger protein 521"	5.941	4.509
+"226731_at"	"ITGA1"	"integrin subunit alpha 1"	5.113	4.868
+"226769_at"	"FIBIN"	"fin bud initiation factor homolog (zebrafish)"	-2.44	3.576
+"226810_at"	"OGFRL1"	"opioid growth factor receptor like 1"	-4.079	3.926
+"226878_at"	"HLA-DOA"	"major histocompatibility complex, class II, DO alpha"	-3.656	6.581
+"226925_at"	"PXYLP1"	"2-phosphoxylose phosphatase 1"	3.137	3.849
+"226944_at"	"HTRA3"	"HtrA serine peptidase 3"	-3.436	3.656
+"227167_s_at"	"RASSF3"	"Ras association domain family member 3"	-2.96	5.369
+"227266_s_at"	"FYB"	"FYN binding protein"	3.662	4.838
+"227646_at"	"EBF1"	"early B-cell factor 1"	-7.185	12.249
+"227725_at"	"ST6GALNAC1"	"ST6 N-acetylgalactosaminide alpha-2,6-sialyltransferase 1"	4.763	4.705
+"227755_at"	"ERN1"	"endoplasmic reticulum to nucleus signaling 1"	3.305	7.168
+"227856_at"	"C4orf32"	"chromosome 4 open reading frame 32"	-5.011	5.068
+"227940_at"	"LOC339803"	"uncharacterized LOC339803"	-3.413	3.532
+"228174_at"	"SCAI"	"suppressor of cancer cell invasion"	2.223	3.637
+"228175_at"	"SLC4A8"	"solute carrier family 4 member 8"	3.031	4.201
+"228314_at"	"LOC101927933///LRRC8C"	"uncharacterized LOC101927933///leucine rich repeat containing 8 family member C"	-2.287	4.016
+"228318_s_at"	"CRIPAK"	"cysteine rich PAK1 inhibitor"	1.982	3.915
+"228353_x_at"	"UBASH3B"	"ubiquitin associated and SH3 domain containing B"	-2.613	4.261
+"228359_at"	"UBASH3B"	"ubiquitin associated and SH3 domain containing B"	-2.643	3.295
+"228423_at"	"MAP9"	"microtubule associated protein 9"	3.522	3.911
+"228628_at"	"SRGAP2C"	"SLIT-ROBO Rho GTPase activating protein 2C"	-2.661	4.41
+"228646_at"	"PPP1R1C"	"protein phosphatase 1 regulatory inhibitor subunit 1C"	2.144	3.46
+"228678_at"	"DENND6B"	"DENN domain containing 6B"	-3.113	3.743
+"228693_at"	"CCDC50"	"coiled-coil domain containing 50"	-6.29	6.446
+"228771_at"	"GRK3"	"G protein-coupled receptor kinase 3"	2.47	3.569
+"228831_s_at"	"GNG7"	"G protein subunit gamma 7"	-3.219	4.357
+"228832_at"	"FLJ20021"	"uncharacterized LOC90024"	-2.095	4.604
+"228899_at"			-2.112	3.558
+"228976_at"	"ICOSLG"	"inducible T-cell costimulator ligand"	-3.942	3.755
+"229002_at"	"FAM69B"	"family with sequence similarity 69 member B"	-4.249	4.335
+"229024_at"	"RNF150"	"ring finger protein 150"	3.363	3.274
+"229029_at"	"CAMK4"	"calcium/calmodulin dependent protein kinase IV"	4.38	4.737
+"229040_at"	"ITGB2-AS1"	"ITGB2 antisense RNA 1"	2.913	3.741
+"229067_at"			-2.441	4.038
+"229114_at"	"GAB1"	"GRB2 associated binding protein 1"	-4.658	4.091
+"229487_at"	"EBF1"	"early B-cell factor 1"	-7.666	13.74
+"229568_at"	"MOB3B"	"MOB kinase activator 3B"	-3.733	6.144
+"229597_s_at"	"WDFY4"	"WDFY family member 4"	-2.338	4.379
+"229606_at"			-4.647	6.686
+"229693_at"	"TMEM220"	"transmembrane protein 220"	-2.278	3.438
+"229695_at"			-4.071	3.592
+"229734_at"	"MIR4697///MIR4697HG"	"microRNA 4697///MIR4697 host gene"	3.832	5.869
+"229784_at"	"MIR424///MIR503HG"	"microRNA 424///MIR503 host gene"	3.499	3.93
+"229814_at"	"TNFAIP8"	"TNF alpha induced protein 8"	2.163	3.328
+"229937_x_at"			-3.262	3.42
+"229968_at"			-2.924	4.378
+"230158_at"	"DPY19L2"	"dpy-19 like 2"	4.13	4.518
+"230276_at"	"FAM49A"	"family with sequence similarity 49 member A"	-3.692	3.688
+"230364_at"	"CHPT1"	"choline phosphotransferase 1"	-2.909	3.405
+"230378_at"	"SCGB3A1"	"secretoglobin family 3A member 1"	7.665	8.357
+"230466_s_at"	"RASSF3"	"Ras association domain family member 3"	-4.757	4.914
+"230489_at"	"CD5"	"CD5 molecule"	3.436	4.201
+"230917_at"	"PLCG2"	"phospholipase C gamma 2"	-2.178	3.461
+"230983_at"	"FAM129C"	"family with sequence similarity 129 member C"	-4.116	5.219
+"230996_at"	"LPP"	"LIM domain containing preferred translocation partner in lipoma"	2.45	3.723
+"231311_at"			3.398	3.424
+"231412_at"	"LOC101929709"	"uncharacterized LOC101929709"	-3.106	3.444
+"231725_at"	"PCDHB2"	"protocadherin beta 2"	3.797	4.031
+"231925_at"	"P2RY1"	"purinergic receptor P2Y1"	4.816	3.831
+"232001_at"	"PRKCQ-AS1"	"PRKCQ antisense RNA 1"	3.551	4.326
+"232049_at"	"SNX2"	"sorting nexin 2"	-3.268	3.873
+"232079_s_at"	"NECTIN2"	"nectin cell adhesion molecule 2"	-3.894	3.631
+"232083_at"	"KIF16B"	"kinesin family member 16B"	-2.802	3.787
+"232180_at"	"UGP2"	"UDP-glucose pyrophosphorylase 2"	2.482	3.828
+"232204_at"	"EBF1"	"early B-cell factor 1"	-8.162	11.579
+"232234_at"	"SLA2"	"Src like adaptor 2"	3.266	3.434
+"232267_at"	"ADGRD1"	"adhesion G protein-coupled receptor D1"	-3.705	3.845
+"232553_at"	"PCYT1B"	"phosphate cytidylyltransferase 1, choline, beta"	4.273	4.486
+"233031_at"	"ZEB2"	"zinc finger E-box binding homeobox 2"	-3.149	3.447
+"233050_at"	"SOGA3///KIAA0408"	"SOGA family member 3///KIAA0408"	4.152	3.473
+"233131_at"	"CFAP58"	"cilia and flagella associated protein 58"	-2.272	3.783
+"233233_at"	"RASSF3"	"Ras association domain family member 3"	-3.191	4.186
+"233261_at"	"EBF1"	"early B-cell factor 1"	-5.907	5.222
+"233302_at"			4.447	3.294
+"233884_at"	"HIVEP3"	"human immunodeficiency virus type I enhancer binding protein 3"	4.513	3.607
+"233891_at"	"MUC3"	"intestinal mucin-like"	-3.127	5.71
+"234612_at"			-2.831	4.382
+"234806_at"	"ORF1"	"uncharacterized protein, clone pT-Adv JuaX22"	3.364	3.362
+"235074_at"	"SPRED1"	"sprouty related EVH1 domain containing 1"	-3.708	5.504
+"235085_at"	"SGK223"	"homolog of rat pragma of Rnd2"	-4.417	3.9
+"235114_x_at"	"HOOK3"	"hook microtubule tethering protein 3"	-3.033	4.1
+"235278_at"	"MACROD2"	"MACRO domain containing 2"	-5.001	7.787
+"235383_at"	"MYO7B"	"myosin VIIB"	6.665	4.887
+"235574_at"	"GBP4"	"guanylate binding protein 4"	-3.573	3.503
+"235745_at"	"ERN1"	"endoplasmic reticulum to nucleus signaling 1"	2.266	3.596
+"235900_at"	"SPNS3"	"sphingolipid transporter 3 (putative)"	3.851	4.403
+"236063_at"			-2.986	3.514
+"236099_at"			-2.612	3.869
+"236104_at"	"HNRNPLL"	"heterogeneous nuclear ribonucleoprotein L like"	3.949	3.489
+"236395_at"			-5.635	7.167
+"236522_at"			-3.091	3.317
+"236793_at"			5.51	4.138
+"238018_at"	"FAM150B"	"family with sequence similarity 150 member B"	-6.006	3.72
+"238175_at"			5.423	4.519
+"238180_at"	"LOC102724094"	"uncharacterized LOC102724094"	2.766	3.271
+"238376_at"	"LOC100505564"	"uncharacterized LOC100505564"	-2.981	4.782
+"238465_at"	"SETD9"	"SET domain containing 9"	-1.877	3.556
+"238469_at"	"OGFRL1"	"opioid growth factor receptor like 1"	-4.797	5.905
+"238509_at"	"CUL1"	"cullin 1"	-2.936	4.818
+"238607_at"	"ZNF296"	"zinc finger protein 296"	-3.807	5.286
+"238756_at"	"GAS2L3"	"growth arrest specific 2 like 3"	-3.42	4.035
+"238784_at"	"DPY19L2"	"dpy-19 like 2"	4.761	4.616
+"238906_s_at"	"RHOJ"	"ras homolog family member J"	-3.232	3.384
+"239214_at"	"LOC100130458"	"uncharacterized LOC100130458"	-5.27	6.654
+"239280_at"			4.828	4.087
+"239281_at"	"ZDHHC14"	"zinc finger DHHC-type containing 14"	-2.438	3.294
+"239317_at"			-3.655	3.714
+"239966_at"			-4.087	3.446
+"240015_at"	"PRKCQ-AS1"	"PRKCQ antisense RNA 1"	2.174	4.844
+"240053_x_at"	"PEX5L"	"peroxisomal biogenesis factor 5 like"	4.612	4.534
+"240546_at"	"LINC01120"	"long intergenic non-protein coding RNA 1120"	4.755	4.585
+"241074_at"			5.192	8.722
+"241139_at"			2.51	3.485
+"241833_at"	"PEX5L"	"peroxisomal biogenesis factor 5 like"	6.11	6.225
+"242051_at"			2.867	3.47
+"242292_at"	"FAM226B///FAM226A"	"family with sequence similarity 226 member B (non-protein coding)///family with sequence similarity 226 member A (non-protein coding)"	5.035	5.269
+"242738_s_at"	"ZFHX3"	"zinc finger homeobox 3"	-2.869	3.698
+"243348_at"			-2.765	3.487
+"243363_at"	"LEF1-AS1"	"LEF1 antisense RNA 1"	-2.712	3.673
+"243551_at"			-2.672	3.382
+"243808_at"			2.969	3.284
+"244033_at"	"CEP128"	"centrosomal protein 128"	2.021	3.404
+"244172_at"			-3.642	4.311
+"244189_at"	"TTC28-AS1"	"TTC28 antisense RNA 1"	1.664	4.293
+"244210_at"			-4.092	4.015
+"244230_at"			-3.209	3.98
+"244280_at"	"LINC01013"	"long intergenic non-protein coding RNA 1013"	-3.534	4.649
+"244457_at"			2.458	3.706
+"244485_at"	"HLA-DPB1"	"major histocompatibility complex, class II, DP beta 1"	-2.033	3.776
+"244576_at"			-2.639	3.512
+"244579_at"			4.499	3.404
+"244654_at"	"MYO1G"	"myosin IG"	3.255	4.162
+"244716_x_at"	"TMIGD2"	"transmembrane and immunoglobulin domain containing 2"	2.704	3.343
+"244874_at"	"CHST15"	"carbohydrate (N-acetylgalactosamine 4-sulfate 6-O) sulfotransferase 15"	-2.213	4.618
+"244876_at"			-5.896	5.742
+"266_s_at"	"CD24"	"CD24 molecule"	-4.512	3.585
+"336_at"	"TBXA2R"	"thromboxane A2 receptor"	-4.314	3.274
+"34726_at"	"CACNB3"	"calcium voltage-gated channel auxiliary subunit beta 3"	1.554	3.337
+"36545_s_at"	"SFI1"	"SFI1 centrin binding protein"	1.891	4.218
+"37590_g_at"			2.078	4.073
+"38521_at"	"CD22"	"CD22 molecule"	-4.301	5.478
+"39248_at"	"AQP3"	"aquaporin 3 (Gill blood group)"	2.574	3.758
+"39318_at"	"TCL1A"	"T-cell leukemia/lymphoma 1A"	-5.8	3.78
+"47550_at"	"LZTS1"	"leucine zipper tumor suppressor 1"	3.704	3.447
+"50221_at"	"TFEB"	"transcription factor EB"	-3.846	6.923
+"50400_at"	"PAOX"	"polyamine oxidase (exo-N4-amino)"	-2.19	3.973
+"52837_at"	"KIAA1644"	"KIAA1644"	4.202	4.499
