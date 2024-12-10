@@ -1,0 +1,11 @@
+Source,Target,Interaction
+Harry,Hermione,Friend
+Harry,Ron,Friend
+Harry,Voldemort,Enemy
+Hermione,Ron,Friend
+Ron,Neville,Friend
+Harry,Dumbledore,Mentor
+Voldemort,Snape,Enemy
+Snape,Dumbledore,Complicated
+Dumbledore,Neville,Mentor
+Neville,Bellatrix,Enemy
